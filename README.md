@@ -25,4 +25,4 @@ Salida:
 ~~~
 ## Etapa 3. Diseño de la solucion
 Diagrama de la clase
-¡[](
+¡[](https://github.com/FernandoSanchezJ/T3A1---Ejercicio-01/blob/main/T3A1.png)
